@@ -18,4 +18,4 @@ tl.to('.acordion .text', {
 tl.to('.acordion',{
     marginBottom: -15,
     stagger: .5
-})
+},"<")
